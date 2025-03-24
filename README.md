@@ -5,13 +5,11 @@
 Me chamo Danton Lucas, tenho 24 anos e sou natural de Belo Horizonte. Sou um desenvolvedor Full Stack com experiência em PHP, JavaScript e bancos de dados. Formado em Desenvolvimento de Sistemas WEB pelo SENAI, e atualmente cursando Sistemas de Informaçao na PUC Minas.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/dantonlucas/">
-        <img 
-            width="32px"
-            alt="LinkedIn"
-            title="LinkedIn" 
-            src="https://i.imgur.com/yRpa1dQ.png"/>
-    </a>
+<a href="https://www.linkedin.com/in/dantonlucas/" target="_blank">
+  <img    alt="LinkedIn"
+          title="LinkedIn" 
+          src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
         <a href="https://github.com/DantonLRR?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
