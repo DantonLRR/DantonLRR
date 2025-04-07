@@ -86,6 +86,7 @@ Me chamo Danton Lucas, tenho 24 anos e sou natural de Belo Horizonte. Sou um des
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+<!--
 <img 
     align="left" 
     alt="Tailwind" 
@@ -111,6 +112,7 @@ Me chamo Danton Lucas, tenho 24 anos e sou natural de Belo Horizonte. Sou um des
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
+-->
 <img 
     align="left" 
     alt="JQuery" 
@@ -135,6 +137,7 @@ Me chamo Danton Lucas, tenho 24 anos e sou natural de Belo Horizonte. Sou um des
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<!--
 <img 
     align="left" 
     alt="Next.js" 
@@ -143,6 +146,7 @@ Me chamo Danton Lucas, tenho 24 anos e sou natural de Belo Horizonte. Sou um des
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
+-->
 <br/>
 <br/>
 
