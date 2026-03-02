@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Danton Lucas, tenho 24 anos e sou natural de Belo Horizonte. Sou um desenvolvedor Full Stack com experiência em PHP, JavaScript e bancos de dados. Formado em Desenvolvimento de Sistemas WEB pelo SENAI, e atualmente cursando Sistemas de Informaçao na PUC Minas.
+Me chamo Danton Lucas, tenho 25 anos e sou natural de Belo Horizonte. Sou um desenvolvedor Full Stack com experiência em PHP, JavaScript e bancos de dados. Formado em Desenvolvimento de Sistemas WEB pelo SENAI, e atualmente cursando Sistemas de Informaçao na PUC Minas.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/dantonlucas/" target="_blank">
