@@ -172,3 +172,24 @@ Me chamo Danton Lucas, tenho 25 anos e sou natural de Belo Horizonte. Sou um des
   />
 
 </p>
+<!--
+
+#   Certificações
+
+<a href="https://www.credly.com/badges/5d1c1844-b57f-49ad-a033-1188130b93f7/public_url" target="_blank">
+  <img src="https://occasional-jade-wg9ebltlg0.edgeone.app/google-ai-essentials-v1-removebg-preview.png" height="105"/>
+</a>
+
+<a href="https://www.credly.com/badges/4a37da4c-ace5-40f6-b4fe-93718df35eb8/public_url" target="_blank">
+  <img src="https://fixed-aqua-uyznclckaa.edgeone.app/google-prompting-essentials-v1-removebg-preview.png" height="100"/>
+</a>
+
+<a href="https://www.credly.com/badges/5d1c1844-b57f-49ad-a033-1188130b93f7/public_url" target="_blank">
+  <img src="https://monthly-amethyst-y08ppbdrdv.edgeone.app/GCC_badge_UX_1000x1000-removebg-preview.png" height="100"/>
+</a>
+
+<a href="https://www.dio.me/certificate/HEDZMV1L/share" target="_blank">
+  <img src="https://assets.dio.me/3PNEUWCamlIqYrkN0lvXAvk-KWcSx6VbbNXT0og_5Mw/f:webp/q:80/w:120/L3RyYWNrcy9iZGM3Y2MxOS1jNzk2LTQ2YTItYjc2Ny1lOGJkYzIwMWZjYjgucG5n" height="90"/>
+</a>
+
+-->
