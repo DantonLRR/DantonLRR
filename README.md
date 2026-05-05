@@ -156,7 +156,7 @@ Me chamo Danton Lucas, tenho 25 anos e sou natural de Belo Horizonte. Sou um des
       align="left" 
       alt="GitHub Stats" 
       height="220" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DantonLRR&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://streak-stats.demolab.com/?user=DantonLRR&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" 
   />
   <div align="right">
   <img src="
