@@ -1,4 +1,5 @@
-# 🧑🏻‍💻 Danton Lucas
+![](https://capsule-render.vercel.app/api?type=waving&height=140&color=75513d&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0)
+<h1 align="center">Olá! Eu sou o Danton Lucas 🧑🏻‍💻 </h1>
 
 **`Desenvolvedor FullStack`**
 
@@ -125,12 +126,36 @@ Me chamo Danton Lucas, tenho 25 anos e sou natural de Belo Horizonte. Sou um des
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 -->
+<img align="left" 
+    alt="MySql" 
+    title="MySql"
+    width="30px" 
+    style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" />
+
+<img    align="left" 
+    alt="VsCode" 
+    title="VsCode"
+    width="30px" 
+    style="padding-right: 10px;"  
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" />
+<img   align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;"  
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" />
+
 <br/>
 <br/>
 
 ### 📊 Estatísticas
 
 <p>
+  <div align="center">
+  <img src="https://streak-stats.demolab.com?user=malucodes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+<!--
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -138,7 +163,7 @@ Me chamo Danton Lucas, tenho 25 anos e sou natural de Belo Horizonte. Sou um des
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=DantonLRR&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
+-->
 <img 
       align="left" 
       alt="GitHub Stats" 
